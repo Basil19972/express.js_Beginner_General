@@ -12,4 +12,6 @@
 </li>
 </ls>
 <br>
+<h2>To install the packages:<br> "npm install" </h2>
+
 <h2>To start the server use:<br> "npm run devStart" </h2>
