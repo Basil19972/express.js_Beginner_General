@@ -1,11 +1,15 @@
 # express.js_Beginner_General
-Here you find a little Express.js project to show general Topics
 
-Hi in this simple Prject you will find examples of the following Topics:
+<h1>Hi in this simple Project you will find examples of the following Topics:</h1>
 
-express Router
-CRUD with parameters
-Middleware(Services)
-Static Sites 
-Render
-Submit Form example
+<ls>
+<li>express Router</li>
+<li>CRUD with parameters</li>
+<li>Middleware(Services)</li>
+<li>Static Sites</li>
+<li>Render</li>
+<li>Submit Form example
+</li>
+</ls>
+<br>
+<h2>To start the server use:<br> "npm run devStart" </h2>
